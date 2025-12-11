@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Parole",
+  "base_artist": "sajou no hana",
+  "createdAt": "2025-12-11T15:57:35.185331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Parole",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/01_Parole_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Parole Per Mio Padre",
+      "artist": "Gino Vannelli",
+      "has_synced": false,
+      "path": "select/02_Parole_Per_Mio_Padre_Gino_Vannelli.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Parole Violators",
+      "artist": "Capone-N-Noreaga feat. Havoc & Tragedy Khadafi",
+      "has_synced": false,
+      "path": "select/03_Parole_Violators_Capone-N-Noreaga_feat._Havoc_&_Tragedy_Khadafi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Parole Violators (Feat. Tragedy Khadafi & Havoc)",
+      "artist": "Capone-N-Noreaga",
+      "has_synced": false,
+      "path": "select/04_Parole_Violators_(Feat._Tragedy_Khadafi_&_Havoc)_Capone-N-Noreaga.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Parole (Bonus Track)",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/05_On_Parole_(Bonus_Track)_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On Parole",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/06_On_Parole_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On Parole",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/07_On_Parole_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "On Parole (alternate take)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/08_On_Parole_(alternate_take)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "On Parole (Live)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/09_On_Parole_(Live)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Parole Di Burro",
+      "artist": "Carmen Consoli",
+      "has_synced": true,
+      "path": "select/10_Parole_Di_Burro_Carmen_Consoli.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Parole",
+      "artist": "Raffaella Carrà",
+      "has_synced": true,
+      "path": "select/11_A_Parole_Raffaella_Carrà.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anche tu, anche se (non trovi le parole) - Feat. Fabri Fibra",
+      "artist": "Elisa feat. Fabri Fibra",
+      "has_synced": true,
+      "path": "select/12_Anche_tu,_anche_se_(non_trovi_le_parole)_-_Feat._Fabri_Fibra_Elisa_feat._Fabri_Fibra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anche tu, anche se (non trovi le parole) (Feat. Fabri Fibra)",
+      "artist": "Elisa Fabri Fibra",
+      "has_synced": true,
+      "path": "select/13_Anche_tu,_anche_se_(non_trovi_le_parole)_(Feat._Fabri_Fibra)_Elisa_Fabri_Fibra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Big Bang (Parte 1 - Parole)",
+      "artist": "Jovanotti",
+      "has_synced": false,
+      "path": "select/14_Big_Bang_(Parte_1_-_Parole)_Jovanotti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fine (tra le ultime parole d'addio e quando va la musica)",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/15_Fine_(tra_le_ultime_parole_d'addio_e_quando_va_la_musica)_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fiumi di parole",
+      "artist": "Matia Bazar",
+      "has_synced": true,
+      "path": "select/16_Fiumi_di_parole_Matia_Bazar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ho Perso Le Parole",
+      "artist": "Ligabue",
+      "has_synced": true,
+      "path": "select/17_Ho_Perso_Le_Parole_Ligabue.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Il mondo non accetta le parole",
+      "artist": "Alexia",
+      "has_synced": true,
+      "path": "select/18_Il_mondo_non_accetta_le_parole_Alexia.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Il nascondiglio delle parole d'amore",
+      "artist": "Gianni Morandi",
+      "has_synced": true,
+      "path": "select/19_Il_nascondiglio_delle_parole_d'amore_Gianni_Morandi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Parole",
+      "artist": "sajou no hana",
+      "has_synced": false,
+      "path": "select/pl_01_Parole_sajou_no_hana.txt"
+    }
+  ]
+}
